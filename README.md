@@ -53,5 +53,8 @@ The project involved various phases, each focusing on different aspects of data 
 - **Fatality Locations**: Top 5 areas with the most fatal accidents in each city.
 - **Common Factors**: Analysis of common factors contributing to accidents.
 
+## Project Requirements
+All project requirements and details can be found in the final_project_details.pdf file.
+
 ## GitHub Release
 You can find the Power BI files and the Integrated DB CSV file in the latest [GitHub release](https://github.com/vaishnavipatel-15/Collision-Data-Analysis/releases/tag/v1.0.1).
