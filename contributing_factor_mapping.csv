@@ -1,0 +1,86 @@
+﻿Code,Austin ,Chicago,New York
+1,Animal on Road - Domestic  ,ANIMAL,NA
+2,Animal on Road - Wild  ,,Animals Action
+3,Backed without Safety  ,,Backing Unsafely
+4,Changed Lane when Unsafe  ,,NA
+14,Disabled in Traffic Lane  ,,NA
+15,Disregard Stop and Go Signal  ,DISREGARDING TRAFFIC SIGNALS,NA
+16,Disregard Stop Sign or Light  ,DISREGARDING STOP SIGN,NA
+17,Disregard Turn Marks at Intersection  ,,NA
+18,Disregard Warning Sign at Construction  ,DISREGARDING ROAD MARKINGS,NA
+19,Distraction in Vehicle  ,DISTRACTION - FROM INSIDE VEHICLE,NA
+20,Driver Inattention  ,,Driver Inattention/Distraction; Eating or Drinking
+21,Drove Without Headlights  ,,Headlights Defective
+22,Failed to Control Speed  ,,NA
+23,Failed to Drive in Single Lane  ,IMPROPER LANE USAGE,Failure to Keep Right; Failure to Yield Right-of-Way
+24,Failed to Give Half of Roadway  ,,NA
+25,Failed to Heed Warning Sign or Traffic Control Device  ,,NA
+26,Failed to Pass to Left Safely  ,,NA
+27,Failed to Pass to Right Safely  ,,NA
+28,Failed to Signal or Gave Wrong Signal  ,,NA
+29,Failed to Stop at Proper Place  ,,NA
+30,Failed to Stop for School Bus  ,PASSING STOPPED SCHOOL BUS,NA
+31,Failed to Stop for Train  ,,NA
+32,Failed to Yield ROW - Emergency Vehicle  ,,NA
+33,Failed to Yield ROW - Open Intersection  ,,NA
+34,Failed to Yield ROW - Private Drive  ,,NA
+35,Failed to Yield ROW - Stop Sign  ,,NA
+36,Failed to Yield ROW - To Pedestrian  ,,NA
+37,Failed to Yield ROW - Turning Left  ,,NA
+38,Failed to Yield ROW - Turn on Red  ,MOTORCYCLE ADVANCING LEGALLY ON RED LIGHT; TURNING RIGHT ON RED,NA
+39,Failed to Yield ROW - Yield Sign  ,DISREGARDING YIELD SIGN,NA
+40,Fatigued or Asleep  ,,Fatigued/Drowsy;Fell Asleep;Lost Consciousness
+41,Faulty Evasive Action  ,"EVASIVE ACTION DUE TO ANIMAL, OBJECT, NONMOTORIST",NA
+42,Fire in Vehicle  ,,Drugs (illegal)
+43,Fleeing or Evading Police  ,,NA
+44,Followed Too Closely  ,FOLLOWING TOO CLOSELY,Following Too Closely
+45,Had Been Drinking  ,HAD BEEN DRINKING (USE WHEN ARREST IS NOT MADE),NA
+46,Handicapped Driver (Explain in Narrative)  ,,Physical Disability
+47,Ill (Explain in Narrative)  ,PHYSICAL CONDITION OF DRIVER,Illnes; Illness
+48,Impaired Visibility (Explain in Narrative)  ,"VISION OBSCURED (SIGNS, TREE LIMBS, BUILDINGS, ETC.)",Glare; Tinted Windows
+49,"Improper Start from a Stopped, Standing, or Parked Position  ",IMPROPER BACKING,NA
+50,Load Not Secured  ,,NA
+51,Opened Door Into Traffic Lane  ,,NA
+52,Oversized Vehicle or Load  ,,Oversized Vehicle
+53,Overtake and Pass Insufficient Clearance  ,IMPROPER OVERTAKING/PASSING,NA
+54,Parked and Failed to Set Brakes  ,,NA
+55,Parked in Traffic Lane  ,,NA
+56,Parked without Lights  ,,NA
+57,Passed in No Passing Lane  ,,Passing or Lane Usage Improper
+58,Passed on Shoulder  ,,Passing Too Closely
+59,Pedestrian FTYROW to Vehicle  ,,Passenger Distraction; Pedestrian/Bicyclist/Other Pedestrian Error/Confusion
+60,Unsafe Speed  ,FAILING TO REDUCE SPEED TO AVOID CRASH,Unsafe Speed
+61,Speeding - (Over Limit)  ,EXCEEDING AUTHORIZED SPEED LIMIT;  EXCEEDING SAFE SPEED FOR CONDITIONS,NA
+62,Taking Medication (Explain in Narrative)  ,,Prescription Medication
+63,Turned Improperly - Cut Corner on Left  ,,Turning Improperly
+64,Turned Improperly - Wide Right  ,,NA
+65,Turned Improperly - Wrong Lane  ,,Unsafe Lane Changing
+66,Turned when Unsafe  ,IMPROPER TURNING/NO SIGNAL,NA
+67,Intoxicated - Alcohol  ,UNDER THE INFLUENCE OF ALCOHOL/DRUGS (USE WHEN ARREST IS EFFECTED),Alcohol Involvement
+68,Intoxicated - Drug  ,,NA
+69,Wrong Side - Approach or Intersection  ,,NA
+70,Wrong Side - Not Passing  ,DRIVING ON WRONG SIDE/WRONG WAY,NA
+71,Wrong Way - One Way Road  ,,NA
+73,Road Rage  ,"OPERATING VEHICLE IN ERRATIC, RECKLESS, CARELESS, NEGLIGENT OR AGGRESSIVE MANNER",Aggressive Driving/Road Rage
+74,Cell/Mobile Device Use - Talking  ,,Cell Phone (hand-held)
+75,Cell/Mobile Device Use - Texting  ,TEXTING,Texting
+76,Cell/Mobile Device Use - Other  ,CELL PHONE USE OTHER THAN TEXTING,Cell Phone (hands-free)
+77,Cell/Mobile Device Use - Unknown  ,,Listening/Using Headphones
+78,Failed to slow or move over for vehicles displaying emergency lights  ,,Other Electronic Device; Using On Board Navigation Device
+79,Drove on improved shoulder,,Shoulders Defective/Improper
+101,other,NOT APPLICABLE,80
+120,,BICYCLE ADVANCING LEGALLY ON RED LIGHT,NA
+121,,DISTRACTION - FROM OUTSIDE VEHICLE,NA
+122,,DISREGARDING OTHER TRAFFIC SIGNS,NA
+123,,"DISTRACTION - OTHER ELECTRONIC DEVICE (NAVIGATION DEVICE, DVD PLAYER, ETC.)",NA
+124,,DRIVING SKILLS/KNOWLEDGE/EXPERIENCE,NA
+125,,EQUIPMENT - VEHICLE CONDITION,Accelerator Defective; Brakes Defective
+126,,FAILING TO YIELD RIGHT-OF-WAY,NA
+127,,OBSTRUCTED CROSSWALKS,NA
+128,,RELATED TO BUS STOP,NA
+129,,ROAD CONSTRUCTION/MAINTENANCE,Pavement Defective; Pavement Slippery
+130,,ROAD ENGINEERING/SURFACE/MARKING DEFECTS,NA
+131,,WEATHER,NA
+132,,UNABLE TO DETERMINE,NA
+133,,,Driver Inexperience
+134,,,Driverless/Runaway Vehicle

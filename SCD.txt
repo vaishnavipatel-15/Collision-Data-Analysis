@@ -1,0 +1,81 @@
+CONTRIBUTING_FACTOR_SK,CRASH_ID,CONTRIBUTING_FACTOR_DESCRIPTION,CONTRIBUTING_FACTOR_ID
+
+41,4375094,"Other Vehicular$Other Vehicular$",null
+
+42,4375094,"",null
+
+43,4380383,"Unspecified$Unspecified$",null
+
+44,4380383,"",null
+
+45,4378930,"Other Vehicular$Driver Inattention/Distraction$",null
+
+46,4378930,"",null
+
+47,4383055,"Following Too Closely$Unspecified$",null
+
+48,4383055,"",null
+
+49,4386920,"Following Too Closely$Unspecified$Unspecified$",null
+
+50,4386920,"",null
+
+51,4386374,"Driver Inattention/Distraction$Unspecified$",null
+
+52,4386374,"",null
+
+53,4389378,"Passing or Lane Usage Improper$Unspecified$",null
+
+54,4389378,"",null
+
+55,4380944,"Unspecified$",null
+
+56,4380944,"",null
+
+57,4380321,"Failure to Yield Right-of-Way$Unspecified$",null
+
+58,4380321,"",null
+
+59,4380584,"Unspecified$",null
+
+60,4380584,"",null
+
+61,4380736,"Unspecified$",null
+
+62,4380736,"",null
+
+63,4384305,"Driver Inattention/Distraction$Unspecified$",null
+
+64,4384305,"",null
+
+65,4379522,"Driver Inattention/Distraction$Unspecified$",null
+
+66,4379522,"",null
+
+67,4378487,"Other Vehicular$Driver Inattention/Distraction$",null
+
+68,4378487,"",null
+
+69,4383482,"Unspecified$",null
+
+70,4383482,"",null
+
+71,4384912,"Unspecified$",null
+
+72,4384912,"",null
+
+73,4378426,"Unspecified$",null
+
+74,4378426,"",null
+
+75,4386797,"Unsafe Lane Changing$Unspecified$",null
+
+76,4386797,"",null
+
+77,4377145,"Tire Failure/Inadequate$Unspecified$",null
+
+78,4377145,"",null
+
+79,4378848,"View Obstructed/Limited$Unspecified$",null
+
+80,4378848,"",null

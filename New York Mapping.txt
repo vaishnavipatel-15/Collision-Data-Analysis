@@ -1,0 +1,86 @@
+Code	New York
+1	NA
+2	Animals Action
+3	Backing Unsafely
+4	NA
+14	NA
+15	NA
+16	NA
+17	NA
+18	NA
+19	NA
+20	Driver Inattention/Distraction; Eating or Drinking
+21	Headlights Defective
+22	NA
+23	Failure to Keep Right; Failure to Yield Right-of-Way
+24	NA
+25	NA
+26	NA
+27	NA
+28	NA
+29	NA
+30	NA
+31	NA
+32	NA
+33	NA
+34	NA
+35	NA
+36	NA
+37	NA
+38	NA
+39	NA
+40	Fatigued/Drowsy;Fell Asleep;Lost Consciousness
+41	NA
+42	Drugs (illegal)
+43	NA
+44	Following Too Closely
+45	NA
+46	Physical Disability
+47	Illnes; Illness
+48	Glare; Tinted Windows
+49	NA
+50	NA
+51	NA
+52	Oversized Vehicle
+53	NA
+54	NA
+55	NA
+56	NA
+57	Passing or Lane Usage Improper
+58	Passing Too Closely
+59	Passenger Distraction; Pedestrian/Bicyclist/Other Pedestrian Error/Confusion
+60	Unsafe Speed
+61	NA
+62	Prescription Medication
+63	Turning Improperly
+64	NA
+65	Unsafe Lane Changing
+66	NA
+67	Alcohol Involvement
+68	NA
+69	NA
+70	NA
+71	NA
+73	Aggressive Driving/Road Rage
+74	Cell Phone (hand-held)
+75	Texting
+76	Cell Phone (hands-free)
+77	Listening/Using Headphones
+78	Other Electronic Device; Using On Board Navigation Device
+79	Shoulders Defective/Improper
+101	80
+120	NA
+121	NA
+122	NA
+123	NA
+124	NA
+125	Accelerator Defective; Brakes Defective
+126	NA
+127	NA
+128	NA
+129	Pavement Defective; Pavement Slippery
+130	NA
+131	NA
+132	NA
+133	Driver Inexperience
+134	Driverless/Runaway Vehicle
